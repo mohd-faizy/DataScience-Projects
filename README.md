@@ -2,6 +2,8 @@
 
 <img src="https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png">
 
+## Machine Learning Overview
+
 <p align="center" width="100%">
     <img width="65%" src="https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/01.jpg"> 
 </p>
