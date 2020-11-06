@@ -3,7 +3,8 @@
 <img src="https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/01.png">
 
 ---
-## [01 Project - Traffic Sign Classification Using Deep Learning in Python/Keras](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
+## 01 Project - Traffic Sign Classification Using Deep Learning in Python/Keras 
+>[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
 <img src="https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png">
 
