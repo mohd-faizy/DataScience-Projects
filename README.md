@@ -9,7 +9,7 @@
 </p>
 
 ---
-## :one:__Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
+## :heavy_check_mark: :one:__Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
 
 >[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
@@ -26,7 +26,7 @@
 
 ---
 
-## :two:__Project - Image Classification with CNNs using Keras__
+## :heavy_check_mark: :two:__Project - Image Classification with CNNs using Keras__
 
 >[Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
 
