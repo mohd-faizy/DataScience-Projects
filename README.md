@@ -9,7 +9,7 @@
 </p>
 
 ---
-## __01 Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
+## :one:__Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
 
 >[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
@@ -26,7 +26,7 @@
 
 ---
 
-## __02 Project - Image Classification with CNNs using Keras__
+## :two:__Project - Image Classification with CNNs using Keras__
 
 >[Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
 
@@ -35,7 +35,10 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 <img src='https://miro.medium.com/max/700/1*1wDoZyhXhGvkfqpO0k0y6g.png'>
 
 ### Dataset
-> CIFAR-10 is a labeled subset of the 80 million tiny images dataset. When the dataset was created, students were paid to label all of the images.
+> CIFAR-10 is a labeled subset of the 80 million tiny images dataset.The 10 different classes represents
+
+:one::airplane:, :two::car:, :three::bird:, :four::cat:, :five::racehorse:, :six::dog2:, :seven::frog:, :eight::horse:, :nine::sailboat:, :one::zero::truck: 
+
 <center><img src='https://blog.kickview.com/content/images/size/w2000/2016/12/cfar-1.jpg'></center>
 
 ### Objectives
