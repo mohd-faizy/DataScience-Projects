@@ -31,7 +31,7 @@
 >[Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
 
 ### Dataset
-> CIFAR-10 is a labeled subset of the 80 million tiny images dataset.The 10 different classes represents
+> [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) is a labeled subset of the 80 million tiny images dataset.The 10 different classes represents
 
 :one::airplane:, :two::car:, :three::bird:, :four::cat:, :five::racehorse:, :six::dog2:, :seven::frog:, :eight::horse:, :nine::sailboat:, :one::zero::truck: 
 
