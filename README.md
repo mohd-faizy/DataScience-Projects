@@ -30,14 +30,15 @@
 
 >[Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
 
-Training  a CNN in Keras with a TensorFlow backend to solve Image Classification problems
-
-<img src='https://miro.medium.com/max/700/1*1wDoZyhXhGvkfqpO0k0y6g.png'>
-
 ### Dataset
 > CIFAR-10 is a labeled subset of the 80 million tiny images dataset.The 10 different classes represents
 
 :one::airplane:, :two::car:, :three::bird:, :four::cat:, :five::racehorse:, :six::dog2:, :seven::frog:, :eight::horse:, :nine::sailboat:, :one::zero::truck: 
+
+Training  a CNN in Keras with a TensorFlow backend to solve Image Classification problems
+
+<img src='https://miro.medium.com/max/700/1*1wDoZyhXhGvkfqpO0k0y6g.png'>
+
 
 <center><img src='https://blog.kickview.com/content/images/size/w2000/2016/12/cfar-1.jpg'></center>
 
@@ -51,6 +52,9 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 ## :heavy_check_mark: :three:__Project - Facial Expression Recognition with Keras!__
 
 >[Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
+
+### Dataset
+> [__Facial Expression Recognition Challenge__](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 <img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width = 900 height = 400>
 
