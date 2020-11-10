@@ -48,6 +48,20 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 
 ---
+## :heavy_check_mark: :three:__Project - Facial Expression Recognition with Keras!__
+
+>[Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
+
+<img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width = 900 height = 400>
+
+### Objectives
+
+> - Develop a facial expression recognition model in Keras.
+> - Build and train a convolutional neural network (CNN).
+> - Deploy the trained model to a web interface with Flask 
+> - Apply the model to real-time video streams and image data.
+
+---
 
 ### Connect with me:
 
