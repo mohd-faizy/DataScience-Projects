@@ -9,7 +9,7 @@
 </p>
 
 ---
-## :heavy_check_mark: :one:__Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
+## :heavy_check_mark: :zero::one:__Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
 
 >[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
@@ -26,7 +26,7 @@
 
 ---
 
-## :heavy_check_mark: :two:__Project - Image Classification with CNNs using Keras__
+## :heavy_check_mark: :zero::two:__Project - Image Classification with CNNs using Keras__
 
 >[Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
 
@@ -49,7 +49,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 
 ---
-## :heavy_check_mark: :three:__Project - Facial Expression Recognition with Keras!__
+## :heavy_check_mark: :zero::three:__Project - Facial Expression Recognition with Keras!__
 
 >[Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
 
@@ -66,7 +66,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > - Apply the model to real-time video streams and image data.
 
 ---
-## :heavy_check_mark: :four:__Project - Classify_Radio_Signals_from_Outer_Space_using_Keras__
+## :heavy_check_mark: :zero::four:__Project - Classify_Radio_Signals_from_Outer_Space_using_Keras__
 
 >[Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
 
