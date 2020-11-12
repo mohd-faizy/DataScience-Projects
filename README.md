@@ -66,7 +66,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > - Apply the model to real-time video streams and image data.
 
 ---
-## :heavy_check_mark: :zero::four:__Project - Classify_Radio_Signals_from_Outer_Space_using_Keras__
+## :heavy_check_mark: :zero::four:__Project - Classify Radio Signals from Outer Space using Keras__
 
 >[Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
 
