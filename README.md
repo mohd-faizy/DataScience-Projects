@@ -9,6 +9,8 @@
 </p>
 
 ---
+
+
 ## :heavy_check_mark: :zero::one:__Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
 
 >[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
@@ -26,8 +28,9 @@
 
 
 
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
-
+<p align="center" width="100%">
+    <img width="65%" src="<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>"> 
+</p>
 
 
 
