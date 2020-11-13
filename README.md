@@ -83,6 +83,31 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 ---
 
+## :heavy_check_mark: :zero::five:__Project - Understanding Deepfakes with-Keras Using DCGAN__
+
+>[Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
+
+<img src='https://courses.csail.mit.edu/18.337/2017/projects/morales_manuel/img/dcgan.png'>
+
+## __Dataset__
+
+> __MNIST__
+
+```python
+
+# Downloding the dataset
+(x_train, y_train), (x_test, y_test) = tfutils.datasets.mnist.load_data(one_hot=False)
+```
+
+<img src = 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png'>
+
+### Objectives
+
+> - Implement a Deep Convolutional Generative Adversarial Network (DCGAN).
+> - Train a DCGAN to synthesize realistic looking images.
+
+---
+
 ### Connect with me:
 
 
