@@ -28,9 +28,7 @@
 
 
 
-<p align="center" width="100%">
-    <img width="65%" src="<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>"> 
-</p>
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
 
 
 
