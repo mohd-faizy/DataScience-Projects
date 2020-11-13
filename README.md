@@ -24,7 +24,12 @@
 > - Compile and fit Deep Convolutional Neural Network model to training data.
 > - Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
----
+
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+
+
+
 
 ## :heavy_check_mark: :zero::two:__Project - Image Classification with CNNs using Keras__
 
@@ -48,7 +53,11 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > - Be able to train convolutional neural networks to solve image classification problems.
 
 
----
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+
+
+
 ## :heavy_check_mark: :zero::three:__Project - Facial Expression Recognition with Keras!__
 
 >[Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
@@ -65,7 +74,11 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > - Deploy the trained model to a web interface with Flask 
 > - Apply the model to real-time video streams and image data.
 
----
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+
+
+
 ## :heavy_check_mark: :zero::four:__Project - Classify Radio Signals from Outer Space using Keras__
 
 >[Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
@@ -81,7 +94,11 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > - Build and train a convolutional neural network (CNN) using Keras.
 > - Display results and plot 2D spectrograms with Python in Jupyter Notebook.
 
----
+
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+
+
 
 ## :heavy_check_mark: :zero::five:__Project - Understanding Deepfakes with-Keras Using DCGAN__
 
@@ -106,7 +123,11 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > - Implement a Deep Convolutional Generative Adversarial Network (DCGAN).
 > - Train a DCGAN to synthesize realistic looking images.
 
----
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+
+
+
 
 ### Connect with me:
 
