@@ -127,7 +127,28 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 <img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
 
+## :heavy_check_mark: :zero::six:__Project - Sentiment Analysis with Deep Learning using BERT__
 
+>[Click here](https://github.com/mohd-faizy/06P_Sentiment_Analysis_With_Deep_Learning_Using_BERT)
+
+<img src='https://thenewsstrike.com/wp-content/uploads/2020/04/Sentiment-Analysis-1024x457.jpg'>
+
+<img src='https://www.researchgate.net/publication/335238076/figure/fig3/AS:793590422855682@1566218109398/Overall-architecture-of-LCF-design-BERT-shared-layer-is-alternative-to-substitute-for.ppm'>
+
+## __Dataset__
+> We will use the [__SMILE Twitter DATASET__](https://doi.org/10.6084/m9.figshare.3187909.v2)
+
+
+
+### Objectives
+
+> - To Understand what __Sentiment Analysis__ is, and how to approach the problem from a neural network perspective.
+> - Loading in pretrained BERT with custom output layer.
+> - Train and evaluate finetuned BERT architecture on Sentiment Analysis.
+
+
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
 
 
 ### Connect with me:
