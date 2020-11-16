@@ -1,4 +1,5 @@
-# Projects: DataScience, Artificial intelligence, Machine learning, Deep Learning
+<h1 style="text-align: center;">Projects</h1>
+<div id="gtx-trans" style="position: absolute; left: -122px; top: -14px;">&nbsp;</div>
 
 <img src="https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png">
 
