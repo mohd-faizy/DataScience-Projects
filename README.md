@@ -149,7 +149,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 <img src='https://www.researchgate.net/publication/335238076/figure/fig3/AS:793590422855682@1566218109398/Overall-architecture-of-LCF-design-BERT-shared-layer-is-alternative-to-substitute-for.ppm'>
 
 ## __Dataset__
-> We will use the [__SMILE Twitter DATASET__](https://doi.org/10.6084/m9.figshare.3187909.v2)
+> [__SMILE Twitter DATASET__](https://doi.org/10.6084/m9.figshare.3187909.v2)
 
 
 
