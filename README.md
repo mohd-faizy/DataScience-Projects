@@ -1,7 +1,8 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://www.python.org/downloads/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/mohd-faizy/DataScience-Projects/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/issues)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
 
 
