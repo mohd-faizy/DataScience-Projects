@@ -162,6 +162,25 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 <img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
 
 
+## :heavy_check_mark: :zero::seven:__Project - Tumor-Diagnosis Exploratory Data Analysis on Breast Cancer Wisconsin DataSet__
+
+>[Click here](https://github.com/mohd-faizy/07P_Tumor-Diagnosis-Exploratory-Data-Analysis-on-Breast-Cancer-Wisconsin-DataSet)
+
+<img src="https://github.com/mohd-faizy/07P_Exploratory_Data_Analysis_With_Seaborn/blob/master/Proj_img/01.png">
+
+## __Dataset__
+> The [Breast Cancer Diagnostic data](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) is available on the UCI Machine Learning Repository. This database is also available through the [UW CS ftp server](http://ftp.cs.wisc.edu/math-prog/cpo-dataset/machine-learn/cancer/WDBC/).
+
+### Objectives
+
+> - Produce data visualizations with Seaborn on Breast Cancer Diagnostic data.
+> - Apply graphical techniques used in exploratory data analysis (EDA).
+> - Use differenting Machine Learning Algorithms like __KNN's, PCA, RF & SVM__ for predicting the outcome.
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+
+
+
 ### Connect with me:
 
 
