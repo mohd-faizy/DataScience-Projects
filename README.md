@@ -77,7 +77,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 ### Dataset
 > [__Facial Expression Recognition Challenge__](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
-<img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width = 900 height = 400>
+<img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width = 1000 height = 380>
 
 ### Objectives
 
@@ -99,7 +99,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 > [__SETI Dataset__](https://drive.google.com/file/d/1R2BlsYydirhMmf89_D1imOT5aVvkXHi2/view?usp=sharing)
 
-<center><img src='http://blog.yavilevich.com/wp-content/uploads/2016/08/fosphor2-cut.png' width=700 height=200></center>
+<center><img src='http://blog.yavilevich.com/wp-content/uploads/2016/08/fosphor2-cut.png' width=1000 height=250></center>
 
 ### Objectives
 
