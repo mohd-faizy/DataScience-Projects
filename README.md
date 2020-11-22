@@ -7,11 +7,13 @@
 
 
 
-
-
 <img src='https://github.com/mohd-faizy/Projects-ML-DL-RL/blob/main/Projects_png/Proj_img.png'>
 
-<img src="https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png">
+<p align='center'>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png' width = 700 height = 300'></a>
+</p>
+
+
 
 ## Machine Learning Overview
 
@@ -26,7 +28,9 @@
 
 >[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
-<img src="https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png">
+<p align='center'>
+  <a href="#"><img src= 'https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png' width = 700 height = 300'></a>
+</p>
 
 ### Objectives
 
@@ -54,10 +58,13 @@
 
 Training  a CNN in Keras with a TensorFlow backend to solve Image Classification problems
 
-<img src='https://miro.medium.com/max/700/1*1wDoZyhXhGvkfqpO0k0y6g.png'>
+<p align='center'>
+  <a href="#"><img src= 'https://miro.medium.com/max/700/1*1wDoZyhXhGvkfqpO0k0y6g.png' width = 700 height = 250'></a>
+</p>
 
-
-<center><img src='https://blog.kickview.com/content/images/size/w2000/2016/12/cfar-1.jpg'></center>
+<p align='center'>
+  <a href="#"><img src= 'https://blog.kickview.com/content/images/size/w2000/2016/12/cfar-1.jpg' width = 700 height = 300'></a>
+</p>
 
 ### Objectives
 
@@ -77,7 +84,9 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 ### Dataset
 > [__Facial Expression Recognition Challenge__](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
-<img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width = 1000 height = 380>
+<p align='center'>
+  <a href="#"><img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width = 600 height = 250'></a>
+</p>
 
 ### Objectives
 
@@ -99,8 +108,9 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 > [__SETI Dataset__](https://drive.google.com/file/d/1R2BlsYydirhMmf89_D1imOT5aVvkXHi2/view?usp=sharing)
 
-<center><img src='http://blog.yavilevich.com/wp-content/uploads/2016/08/fosphor2-cut.png' width=1000 height=250></center>
-
+<p align='center'>
+  <a href="#"><img src= 'http://blog.yavilevich.com/wp-content/uploads/2016/08/fosphor2-cut.png' width = 700 height = 200'></a>
+</p>
 ### Objectives
 
 > - Build and train a convolutional neural network (CNN) using Keras.
@@ -127,8 +137,9 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 # Downloding the dataset
 (x_train, y_train), (x_test, y_test) = tfutils.datasets.mnist.load_data(one_hot=False)
 ```
-
-<img src = 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png'>
+<p align='center'>
+  <a href="#"><img src= 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png' width = 600 height = 300'></a>
+</p>
 
 ### Objectives
 
@@ -140,11 +151,15 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 ## :heavy_check_mark: :zero::six:__Project - Sentiment Analysis with Deep Learning using BERT__
 
->[Click here](https://github.com/mohd-faizy/06P_Sentiment_Analysis_With_Deep_Learning_Using_BERT)
+>[Click here](https://github.com/mohd-faizy/06P_Sentiment-Analysis-With-Deep-Learning-Using-BERT)
 
-<img src='https://thenewsstrike.com/wp-content/uploads/2020/04/Sentiment-Analysis-1024x457.jpg'>
+<p align='center'>
+  <a href="#"><img src= 'https://thenewsstrike.com/wp-content/uploads/2020/04/Sentiment-Analysis-1024x457.jpg' width = 700 height = 300'></a>
+</p>
 
-<img src='https://www.researchgate.net/publication/335238076/figure/fig3/AS:793590422855682@1566218109398/Overall-architecture-of-LCF-design-BERT-shared-layer-is-alternative-to-substitute-for.ppm'>
+<p align='center'>
+  <a href="#"><img src= 'https://www.researchgate.net/publication/335238076/figure/fig3/AS:793590422855682@1566218109398/Overall-architecture-of-LCF-design-BERT-shared-layer-is-alternative-to-substitute-for.ppm' width = 800 height = 600'></a>
+</p>
 
 ## __Dataset__
 > [__SMILE Twitter DATASET__](https://doi.org/10.6084/m9.figshare.3187909.v2)
