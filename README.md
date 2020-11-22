@@ -126,8 +126,10 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 >[Click here](https://github.com/mohd-faizy/05P_Understanding_Deepfakes_with_Keras_Using_DCGAN)
 
-<img src='https://courses.csail.mit.edu/18.337/2017/projects/morales_manuel/img/dcgan.png'>
-
+<p align='center'>
+  <a href="#"><img src= 'https://courses.csail.mit.edu/18.337/2017/projects/morales_manuel/img/dcgan.png' width = 800 height = 220'></a>
+</p>
+    
 ## __Dataset__
 
 > __MNIST__
@@ -181,8 +183,10 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 >[Click here](https://github.com/mohd-faizy/07P_Tumor-Diagnosis-Exploratory-Data-Analysis-on-Breast-Cancer-Wisconsin-DataSet)
 
-<img src="https://github.com/mohd-faizy/07P_Exploratory_Data_Analysis_With_Seaborn/blob/master/Proj_img/01.png">
-
+<p align='center'>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/07P_Exploratory_Data_Analysis_With_Seaborn/blob/master/Proj_img/01.png' width = 800 height = 220'></a>
+</p>
+    
 ## __Dataset__
 > The [Breast Cancer Diagnostic data](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) is available on the UCI Machine Learning Repository. This database is also available through the [UW CS ftp server](http://ftp.cs.wisc.edu/math-prog/cpo-dataset/machine-learn/cancer/WDBC/).
 
