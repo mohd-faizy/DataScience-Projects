@@ -10,7 +10,7 @@
 <img src='https://github.com/mohd-faizy/Projects-ML-DL-RL/blob/main/Projects_png/Proj_img.png'>
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png' width = 700 height = 250'></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png' width='700' height='250'></a>
 </p>
 
 
@@ -29,7 +29,7 @@
 >[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
 <p align='center'>
-  <a href="#"><img src= 'https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png' width = 700 height = 300'></a>
+  <a href="#"><img src= 'https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png' width ='700' height='300'></a>
 </p>
 
 ### Objectives
@@ -63,7 +63,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 </p>
 
 <p align='center'>
-  <a href="#"><img src= 'https://blog.kickview.com/content/images/size/w2000/2016/12/cfar-1.jpg' width = 700 height = 300'></a>
+  <a href="#"><img src= 'https://blog.kickview.com/content/images/size/w2000/2016/12/cfar-1.jpg' width='700' height='300'></a>
 </p>
 
 ### Objectives
@@ -85,7 +85,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > [__Facial Expression Recognition Challenge__](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 <p align='center'>
-  <a href="#"><img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width = 600 height = 250'></a>
+  <a href="#"><img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width='600' height ='250'></a>
 </p>
 
 ### Objectives
@@ -109,7 +109,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > [__SETI Dataset__](https://drive.google.com/file/d/1R2BlsYydirhMmf89_D1imOT5aVvkXHi2/view?usp=sharing)
 
 <p align='center'>
-  <a href="#"><img src= 'http://blog.yavilevich.com/wp-content/uploads/2016/08/fosphor2-cut.png' width = 700 height = 200'></a>
+  <a href="#"><img src= 'http://blog.yavilevich.com/wp-content/uploads/2016/08/fosphor2-cut.png' width='700' height='200'></a>
 </p>
 ### Objectives
 
@@ -127,7 +127,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 >[Click here](https://github.com/mohd-faizy/05P_Understanding_Deepfakes_with_Keras_Using_DCGAN)
 
 <p align='center'>
-  <a href="#"><img src= 'https://courses.csail.mit.edu/18.337/2017/projects/morales_manuel/img/dcgan.png' width = 800 height = 220'></a>
+  <a href="#"><img src= 'https://courses.csail.mit.edu/18.337/2017/projects/morales_manuel/img/dcgan.png' width='800' height='220'></a>
 </p>
     
 ## __Dataset__
@@ -140,7 +140,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 (x_train, y_train), (x_test, y_test) = tfutils.datasets.mnist.load_data(one_hot=False)
 ```
 <p align='center'>
-  <a href="#"><img src= 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png' width = 600 height = 300'></a>
+  <a href="#"><img src= 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png' width='600' height='300'></a>
 </p>
 
 ### Objectives
@@ -156,7 +156,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 >[Click here](https://github.com/mohd-faizy/06P_Sentiment-Analysis-With-Deep-Learning-Using-BERT)
 
 <p align='center'>
-  <a href="#"><img src= 'https://thenewsstrike.com/wp-content/uploads/2020/04/Sentiment-Analysis-1024x457.jpg' width = 700 height = 300'></a>
+  <a href="#"><img src= 'https://thenewsstrike.com/wp-content/uploads/2020/04/Sentiment-Analysis-1024x457.jpg' width='700' height='300'></a>
 </p>
 
 <p align='center'>
@@ -184,7 +184,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 >[Click here](https://github.com/mohd-faizy/07P_Tumor-Diagnosis-Exploratory-Data-Analysis-on-Breast-Cancer-Wisconsin-DataSet)
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/07P_Exploratory_Data_Analysis_With_Seaborn/blob/master/Proj_img/01.png' width = 800 height = 220'></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/07P_Exploratory_Data_Analysis_With_Seaborn/blob/master/Proj_img/01.png' width='800' height='220'></a>
 </p>
     
 ## __Dataset__
@@ -198,6 +198,26 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 <img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
 
+## :heavy_check_mark: :zero::eight:__Project - COVID19 Data Analysis Using Python__
+
+>[Click here](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python)
+
+<p align='center'>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg'width = 800 height = 220></a>
+</p>
+    
+## DataSet
+>1. [COVID19 dataset](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv) published by John Hopkins University.
+>2. [World_Happiness Report](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/world_happiness_report_2019.csv)
+>3. [CSSEGISandData](https://github.com/CSSEGISandData)
+
+### Objectives
+
+> - Learn the steps, needed to be taken to prepare our data sources for an analysis.
+> - Learn how to look at our data to find a good measure to establish our analysis based upon.
+> - Learn to visualize the result of our analysis. 
+
+<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
 
 
 ### Connect with me:
