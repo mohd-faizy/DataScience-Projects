@@ -203,7 +203,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 >[Click here](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python)
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg'width = 800 height = 220></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg'width = 800 height = 250></a>
 </p>
     
 ## DataSet
