@@ -21,11 +21,11 @@
 
 ## :heavy_check_mark: :zero::one:**Project - Traffic Sign Classification Using Deep Learning in Python/Keras**
 
-> [Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
-
 <p align='center'>
-  <a href="#"><img src= ''></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/01_proj.png'></a>
 </p>
+
+> [Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
 ### Objectives
 
@@ -42,6 +42,10 @@
 
 ## :heavy_check_mark: :zero::two:**Project - Image Classification with CNNs using Keras**
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/02_proj.png'></a>
+</p>
+
 > [Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
 
 ### Dataset
@@ -51,10 +55,6 @@
 :one::airplane:, :two::car:, :three::bird:, :four::cat:, :five::racehorse:, :six::dog2:, :seven::frog:, :eight::horse:, :nine::sailboat:, :one::zero::truck:
 
 Training a CNN in Keras with a TensorFlow backend to solve Image Classification problems
-
-<p align='center'>
-  <a href="#"><img src= ''></a>
-</p>
 
 ### Objectives
 
@@ -67,15 +67,15 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 
 ## :heavy_check_mark: :zero::three:**Project - Facial Expression Recognition with Keras!**
 
+<p align='center'>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/03_proj.png'></a>
+</p>
+
 > [Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
 
 ### Dataset
 
 > [**Facial Expression Recognition Challenge**](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
-
-<p align='center'>
-  <a href="#"><img src= ''></a>
-</p>
 
 ### Objectives
 
@@ -90,15 +90,15 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 
 ## :heavy_check_mark: :zero::four:**Project - Classify Radio Signals from Outer Space using Keras**
 
+<p align='center'>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/04_proj.png'></a>
+</p>
+
 > [Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
 
 ## **Dataset**
 
 > [**SETI Dataset**](https://drive.google.com/file/d/1R2BlsYydirhMmf89_D1imOT5aVvkXHi2/view?usp=sharing)
-
-<p align='center'>
-  <a href="#"><img src= ''></a>
-</p>
 
 ### Objectives
 
@@ -111,13 +111,13 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 
 ## :heavy_check_mark: :zero::five:**Project - Understanding Deepfakes with-Keras Using DCGAN**
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/05_proj.png'></a>
+</p>
+
 > [Click here](https://github.com/mohd-faizy/05P_Understanding_Deepfakes_with_Keras_Using_DCGAN)
 
-<p align='center'>
-  <a href="#"><img src= ''></a>
-</p>
-    
-## __Dataset__
+## **Dataset**
 
 > **MNIST**
 
@@ -137,6 +137,10 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 </p>
 
 ## :heavy_check_mark: :zero::six:**Project - Sentiment Analysis with Deep Learning using BERT**
+
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/06_proj.png'></a>
+</p>
 
 > [Click here](https://github.com/mohd-faizy/06P_Sentiment-Analysis-With-Deep-Learning-Using-BERT)
 
