@@ -163,7 +163,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > [Click here](https://github.com/mohd-faizy/07P_Tumor-Diagnosis-Exploratory-Data-Analysis-on-Breast-Cancer-Wisconsin-DataSet)
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/07P_Exploratory_Data_Analysis_With_Seaborn/blob/master/Proj_img/01.png' width='800' height='220'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/07_proj.png'></a>
 </p>
     
 ## __Dataset__
