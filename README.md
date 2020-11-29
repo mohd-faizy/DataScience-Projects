@@ -5,15 +5,11 @@
 [![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/issues)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
 
-
-
 <img src='https://github.com/mohd-faizy/Projects-ML-DL-RL/blob/main/Projects_png/Proj_img.png'>
 
 <p align='center'>
   <a href="#"><img src= 'https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png' width='700' height='250'></a>
 </p>
-
-
 
 ## Machine Learning Overview
 
@@ -23,47 +19,41 @@
 
 ---
 
+## :heavy_check_mark: :zero::one:**Project - Traffic Sign Classification Using Deep Learning in Python/Keras**
 
-## :heavy_check_mark: :zero::one:__Project - Traffic Sign Classification Using Deep Learning in Python/Keras__
-
->[Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
+> [Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
 
 <p align='center'>
-  <a href="#"><img src= 'https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png' width ='700' height='300'></a>
+  <a href="#"><img src= ''></a>
 </p>
 
 ### Objectives
 
 > - Understand the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs).
 > - Import Key python libraries, dataset and perform image visualization.
-> - Perform image normalization and convert images from color-scaled to gray-scaled. 
+> - Perform image normalization and convert images from color-scaled to gray-scaled.
 > - Build a Convolutional Neural Network using Keras with Tensorflow 2.0 as a back-end.
 > - Compile and fit Deep Convolutional Neural Network model to training data.
 > - Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
-
-
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
-
-
-
-## :heavy_check_mark: :zero::two:__Project - Image Classification with CNNs using Keras__
-
->[Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
-
-### Dataset
-> [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) is a labeled subset of the 80 million tiny images dataset.The 10 different classes represents
-
-:one::airplane:, :two::car:, :three::bird:, :four::cat:, :five::racehorse:, :six::dog2:, :seven::frog:, :eight::horse:, :nine::sailboat:, :one::zero::truck: 
-
-Training  a CNN in Keras with a TensorFlow backend to solve Image Classification problems
-
 <p align='center'>
-  <a href="#"><img src= 'https://miro.medium.com/max/700/1*1wDoZyhXhGvkfqpO0k0y6g.png' width = 700 height = 250'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
 </p>
 
+## :heavy_check_mark: :zero::two:**Project - Image Classification with CNNs using Keras**
+
+> [Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
+
+### Dataset
+
+> [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) is a labeled subset of the 80 million tiny images dataset.The 10 different classes represents
+
+:one::airplane:, :two::car:, :three::bird:, :four::cat:, :five::racehorse:, :six::dog2:, :seven::frog:, :eight::horse:, :nine::sailboat:, :one::zero::truck:
+
+Training a CNN in Keras with a TensorFlow backend to solve Image Classification problems
+
 <p align='center'>
-  <a href="#"><img src= 'https://blog.kickview.com/content/images/size/w2000/2016/12/cfar-1.jpg' width='700' height='300'></a>
+  <a href="#"><img src= ''></a>
 </p>
 
 ### Objectives
@@ -71,117 +61,102 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 > - Understand how to create convolutional neural networks in Keras.
 > - Be able to train convolutional neural networks to solve image classification problems.
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
+</p>
 
+## :heavy_check_mark: :zero::three:**Project - Facial Expression Recognition with Keras!**
 
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
-
-
-
-## :heavy_check_mark: :zero::three:__Project - Facial Expression Recognition with Keras!__
-
->[Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
+> [Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
 
 ### Dataset
-> [__Facial Expression Recognition Challenge__](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+
+> [**Facial Expression Recognition Challenge**](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 <p align='center'>
-  <a href="#"><img src= 'https://miro.medium.com/max/1000/1*cQMgkngnYdIRHcZ2cJUnAg.jpeg' width='600' height ='250'></a>
+  <a href="#"><img src= ''></a>
 </p>
 
 ### Objectives
 
 > - Develop a facial expression recognition model in Keras.
 > - Build and train a convolutional neural network (CNN).
-> - Deploy the trained model to a web interface with Flask 
+> - Deploy the trained model to a web interface with Flask
 > - Apply the model to real-time video streams and image data.
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
+</p>
 
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+## :heavy_check_mark: :zero::four:**Project - Classify Radio Signals from Outer Space using Keras**
 
+> [Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
 
+## **Dataset**
 
-## :heavy_check_mark: :zero::four:__Project - Classify Radio Signals from Outer Space using Keras__
-
->[Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
-
-## __Dataset__
-
-> [__SETI Dataset__](https://drive.google.com/file/d/1R2BlsYydirhMmf89_D1imOT5aVvkXHi2/view?usp=sharing)
+> [**SETI Dataset**](https://drive.google.com/file/d/1R2BlsYydirhMmf89_D1imOT5aVvkXHi2/view?usp=sharing)
 
 <p align='center'>
-  <a href="#"><img src= 'http://blog.yavilevich.com/wp-content/uploads/2016/08/fosphor2-cut.png' width='700' height='200'></a>
+  <a href="#"><img src= ''></a>
 </p>
+
 ### Objectives
 
 > - Build and train a convolutional neural network (CNN) using Keras.
 > - Display results and plot 2D spectrograms with Python in Jupyter Notebook.
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
+</p>
 
+## :heavy_check_mark: :zero::five:**Project - Understanding Deepfakes with-Keras Using DCGAN**
 
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
-
-
-
-## :heavy_check_mark: :zero::five:__Project - Understanding Deepfakes with-Keras Using DCGAN__
-
->[Click here](https://github.com/mohd-faizy/05P_Understanding_Deepfakes_with_Keras_Using_DCGAN)
+> [Click here](https://github.com/mohd-faizy/05P_Understanding_Deepfakes_with_Keras_Using_DCGAN)
 
 <p align='center'>
-  <a href="#"><img src= 'https://courses.csail.mit.edu/18.337/2017/projects/morales_manuel/img/dcgan.png' width='800' height='220'></a>
+  <a href="#"><img src= ''></a>
 </p>
     
 ## __Dataset__
 
-> __MNIST__
+> **MNIST**
 
 ```python
 
 # Downloding the dataset
 (x_train, y_train), (x_test, y_test) = tfutils.datasets.mnist.load_data(one_hot=False)
 ```
-<p align='center'>
-  <a href="#"><img src= 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png' width='600' height='300'></a>
-</p>
 
 ### Objectives
 
 > - Implement a Deep Convolutional Generative Adversarial Network (DCGAN).
 > - Train a DCGAN to synthesize realistic looking images.
 
-
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
-
-## :heavy_check_mark: :zero::six:__Project - Sentiment Analysis with Deep Learning using BERT__
-
->[Click here](https://github.com/mohd-faizy/06P_Sentiment-Analysis-With-Deep-Learning-Using-BERT)
-
 <p align='center'>
-  <a href="#"><img src= 'https://thenewsstrike.com/wp-content/uploads/2020/04/Sentiment-Analysis-1024x457.jpg' width='700' height='300'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src= 'https://www.researchgate.net/publication/335238076/figure/fig3/AS:793590422855682@1566218109398/Overall-architecture-of-LCF-design-BERT-shared-layer-is-alternative-to-substitute-for.ppm' width = 800 height = 600'></a>
-</p>
+## :heavy_check_mark: :zero::six:**Project - Sentiment Analysis with Deep Learning using BERT**
 
-## __Dataset__
-> [__SMILE Twitter DATASET__](https://doi.org/10.6084/m9.figshare.3187909.v2)
+> [Click here](https://github.com/mohd-faizy/06P_Sentiment-Analysis-With-Deep-Learning-Using-BERT)
 
+## **Dataset**
 
+> [**SMILE Twitter DATASET**](https://doi.org/10.6084/m9.figshare.3187909.v2)
 
 ### Objectives
 
-> - To Understand what __Sentiment Analysis__ is, and how to approach the problem from a neural network perspective.
+> - To Understand what **Sentiment Analysis** is, and how to approach the problem from a neural network perspective.
 > - Loading in pretrained BERT with custom output layer.
 > - Train and evaluate finetuned BERT architecture on Sentiment Analysis.
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
+</p>
 
+## :heavy_check_mark: :zero::seven:**Project - Tumor-Diagnosis Exploratory Data Analysis on Breast Cancer Wisconsin DataSet**
 
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
-
-
-## :heavy_check_mark: :zero::seven:__Project - Tumor-Diagnosis Exploratory Data Analysis on Breast Cancer Wisconsin DataSet__
-
->[Click here](https://github.com/mohd-faizy/07P_Tumor-Diagnosis-Exploratory-Data-Analysis-on-Breast-Cancer-Wisconsin-DataSet)
+> [Click here](https://github.com/mohd-faizy/07P_Tumor-Diagnosis-Exploratory-Data-Analysis-on-Breast-Cancer-Wisconsin-DataSet)
 
 <p align='center'>
   <a href="#"><img src= 'https://github.com/mohd-faizy/07P_Exploratory_Data_Analysis_With_Seaborn/blob/master/Proj_img/01.png' width='800' height='220'></a>
@@ -194,13 +169,15 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 
 > - Produce data visualizations with Seaborn on Breast Cancer Diagnostic data.
 > - Apply graphical techniques used in exploratory data analysis (EDA).
-> - Use differenting Machine Learning Algorithms like __KNN's, PCA, RF & SVM__ for predicting the outcome.
+> - Use differenting Machine Learning Algorithms like **KNN's, PCA, RF & SVM** for predicting the outcome.
 
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
+</p>
 
-## :heavy_check_mark: :zero::eight:__Project - COVID19 Data Analysis Using Python__
+## :heavy_check_mark: :zero::eight:**Project - COVID19 Data Analysis Using Python**
 
->[Click here](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python)
+> [Click here](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python)
 
 <p align='center'>
   <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg'width = 800 height = 250></a>
@@ -212,31 +189,29 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 >3. [CSSEGISandData](https://github.com/CSSEGISandData)
 
 ### Objectives
+
 In this Project we are going to work with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Also we have another dataset consist of various life factors, scored by the people living in each country around the globe. We are going to merge these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
 > - Learn the steps, needed to be taken to prepare our data sources for an analysis.
 > - Learn how to look at our data to find a good measure to establish our analysis based upon.
-> - Learn to visualize the result of our analysis. 
+> - Learn to visualize the result of our analysis.
 
-<img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'>
-
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Projects-DS-AI-ML-DL-RL/blob/main/Projects_png/divider_line.png'></a>
+</p>
 
 ### Connect with me:
 
-
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][StackExchange AI]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackexchange ai]
 
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
-[StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
-
+[stackexchange ai]: https://ai.stackexchange.com/users/36737/cypher
 
 ---
 
-
 ![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
