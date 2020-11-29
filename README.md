@@ -1,9 +1,13 @@
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/)
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![made-with-Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](http://commonmark.org)
-[![GitHub license](https://img.shields.io/github/license/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/blob/main/LICENSE)
+![Language](https://img.shields.io/github/languages/top/mohd-faizy/DataScience-Projects)
+![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
+![Maintained](https://img.shields.io/maintenance/yes/2020)
+![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/DataScience-Projects)
 [![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/issues)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
+![Stars GitHub](https://img.shields.io/github/stars/garimasingh128/awesome-python-projects)
+[![GitHub license](https://img.shields.io/github/license/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/blob/main/LICENSE)
+![Size](https://img.shields.io/github/repo-size/mohd-faizy/DataScience-Projects)
 
 <img src='https://github.com/mohd-faizy/Projects-ML-DL-RL/blob/main/Projects_png/Proj_img.png'>
 
