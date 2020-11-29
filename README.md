@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/DataScience-Projects)
 [![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/issues)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
-![Stars GitHub](https://img.shields.io/github/stars/garimasingh128/awesome-python-projects)
+![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/DataScience-Projects)
 [![GitHub license](https://img.shields.io/github/license/mohd-faizy/DataScience-Projects)](https://github.com/mohd-faizy/DataScience-Projects/blob/main/LICENSE)
 ![Size](https://img.shields.io/github/repo-size/mohd-faizy/DataScience-Projects)
 
