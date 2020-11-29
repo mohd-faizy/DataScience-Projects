@@ -212,6 +212,7 @@ Training  a CNN in Keras with a TensorFlow backend to solve Image Classification
 >3. [CSSEGISandData](https://github.com/CSSEGISandData)
 
 ### Objectives
+In this Project we are going to work with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Also we have another dataset consist of various life factors, scored by the people living in each country around the globe. We are going to merge these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
 > - Learn the steps, needed to be taken to prepare our data sources for an analysis.
 > - Learn how to look at our data to find a good measure to establish our analysis based upon.
