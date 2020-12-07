@@ -16,10 +16,8 @@
   <a href="#"><img src= 'https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png' width='700' height='250'></a>
 </p>
 
-## Machine Learning Overview
-
-<p align="center" width="100%">
-    <img width="65%" src="https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/01.jpg"> 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ---
@@ -42,7 +40,7 @@
 > - Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::two:**Project - Image Classification with CNNs using Keras**
@@ -67,7 +65,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Be able to train convolutional neural networks to solve image classification problems.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::three:**Project - Facial Expression Recognition with Keras!**
@@ -90,7 +88,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Apply the model to real-time video streams and image data.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::four:**Project - Classify Radio Signals from Outer Space using Keras**
@@ -111,7 +109,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Display results and plot 2D spectrograms with Python in Jupyter Notebook.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::five:**Project - Understanding Deepfakes with-Keras Using DCGAN**
@@ -138,7 +136,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Train a DCGAN to synthesize realistic looking images.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::six:**Project - Sentiment Analysis with Deep Learning using BERT**
@@ -160,7 +158,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Train and evaluate finetuned BERT architecture on Sentiment Analysis.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::seven:**Project - Tumor-Diagnosis Exploratory Data Analysis on Breast Cancer Wisconsin DataSet**
@@ -181,7 +179,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Use differenting Machine Learning Algorithms like **KNN's, PCA, RF & SVM** for predicting the outcome.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::eight:**Project - COVID19 Data Analysis Using Python**
@@ -206,7 +204,7 @@ In this Project we are going to work with COVID19 dataset, published by John Hop
 > - Learn to visualize the result of our analysis.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' alt="div"></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
 
 <p align='center'>
