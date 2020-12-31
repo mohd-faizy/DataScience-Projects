@@ -187,7 +187,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > [Click here](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python)
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg?raw=truejpeg'width = 800 height = 250></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.png?raw=true'width = 800 height = 250></a>
 </p>
     
 ## DataSet
@@ -206,6 +206,30 @@ In this Project we are going to work with COVID19 dataset, published by John Hop
 <p align='center'>
   <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 </p>
+
+
+## :heavy_check_mark: :zero::nine:**Project - Detecting COVID 19 with Chest X-Ray using PyTorch**
+
+
+> [Click here](https://github.com/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
+
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/09_proj.png?raw=true'></a>
+</p>
+
+## Dataset
+
+> [**COVID-19 Chest X-ray Database**](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database/download)
+
+### Objectives
+
+Training __Convolutional Neural Networks__ to classify Chest X-Ray scans with reasonably high accuracy.
+
+> - Create custom Dataset and DataLoader in PyTorch.
+> - Train a ResNet-18 model in PyTorch to perform Image Classification.
+
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
 
 <p align='center'>
   <a href="#"><img src="https://marlacummins.com/wp-content/uploads/2014/03/Work_In_Progress.png" height='100' width='130'></a>
