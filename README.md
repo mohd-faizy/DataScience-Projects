@@ -25,7 +25,7 @@
 ## :heavy_check_mark: :zero::one:**Project - Traffic Sign Classification Using Deep Learning in Python/Keras**
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/01_proj.png'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/01_proj.png?raw=true'></a>
 </p>
 
 > [Click here](https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification)
@@ -46,7 +46,7 @@
 ## :heavy_check_mark: :zero::two:**Project - Image Classification with CNNs using Keras**
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/02_proj.png'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/02_proj.png?raw=true'></a>
 </p>
 
 > [Click here](https://github.com/mohd-faizy/02P_Project_Image_Classification_with_CNNs_using_Keras)
@@ -71,7 +71,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 ## :heavy_check_mark: :zero::three:**Project - Facial Expression Recognition with Keras!**
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/03_proj.png'></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/03_proj.png?raw=true'></a>
 </p>
 
 > [Click here](https://github.com/mohd-faizy/03P_Facial_Expression_Recoginition)
@@ -94,7 +94,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 ## :heavy_check_mark: :zero::four:**Project - Classify Radio Signals from Outer Space using Keras**
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/04_proj.png'></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/04_proj.png?raw=true'></a>
 </p>
 
 > [Click here](https://github.com/mohd-faizy/04P-Classify-Radio-Signals-from-Outer-Space-using-Keras)
@@ -115,7 +115,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 ## :heavy_check_mark: :zero::five:**Project - Understanding Deepfakes with-Keras Using DCGAN**
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/05_proj.png'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/05_proj.png?raw=true'></a>
 </p>
 
 > [Click here](https://github.com/mohd-faizy/05P_Understanding_Deepfakes_with_Keras_Using_DCGAN)
@@ -142,7 +142,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 ## :heavy_check_mark: :zero::six:**Project - Sentiment Analysis with Deep Learning using BERT**
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/06_proj.png'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/06_proj.png?raw=true'></a>
 </p>
 
 > [Click here](https://github.com/mohd-faizy/06P_Sentiment-Analysis-With-Deep-Learning-Using-BERT)
@@ -166,7 +166,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > [Click here](https://github.com/mohd-faizy/07P_Tumor-Diagnosis-Exploratory-Data-Analysis-on-Breast-Cancer-Wisconsin-DataSet)
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/07_proj.png'></a>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/07_proj.png?raw=true'></a>
 </p>
     
 ## __Dataset__
@@ -187,7 +187,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > [Click here](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python)
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg'width = 800 height = 250></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg?raw=truejpeg'width = 800 height = 250></a>
 </p>
     
 ## DataSet
