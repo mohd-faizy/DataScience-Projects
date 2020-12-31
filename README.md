@@ -223,7 +223,7 @@ In this Project we are going to work with COVID19 dataset, published by John Hop
 
 ### Objectives
 
-Training __Convolutional Neural Networks__ to classify Chest X-Ray scans with reasonably high accuracy.
+Training __Convolutional Neural Networks(CNN)__ to classify Chest X-Ray scans with reasonably high accuracy.
 
 > - Create custom Dataset and DataLoader in PyTorch.
 > - Train a ResNet-18 model in PyTorch to perform Image Classification.
