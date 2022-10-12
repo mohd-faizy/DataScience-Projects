@@ -13,11 +13,7 @@
 <img src='https://github.com/mohd-faizy/Projects-ML-DL-RL/blob/main/Projects_png/Proj_img.png'>
 
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/Projects_DS_AI_ML_DL_RL/blob/main/Projects_png/head_png.png' width='700' height='250'></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ---
@@ -40,7 +36,7 @@
 > - Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::two:**Project - Image Classification with CNNs using Keras**
@@ -65,7 +61,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Be able to train convolutional neural networks to solve image classification problems.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::three:**Project - Facial Expression Recognition with Keras!**
@@ -88,7 +84,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Apply the model to real-time video streams and image data.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::four:**Project - Classify Radio Signals from Outer Space using Keras**
@@ -109,7 +105,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Display results and plot 2D spectrograms with Python in Jupyter Notebook.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::five:**Project - Understanding Deepfakes with-Keras Using DCGAN**
@@ -136,7 +132,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Train a DCGAN to synthesize realistic looking images.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::six:**Project - Sentiment Analysis with Deep Learning using BERT**
@@ -158,7 +154,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Train and evaluate finetuned BERT architecture on Sentiment Analysis.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::seven:**Project - Tumor-Diagnosis Exploratory Data Analysis on Breast Cancer Wisconsin DataSet**
@@ -179,7 +175,7 @@ Training a CNN in Keras with a TensorFlow backend to solve Image Classification 
 > - Use differenting Machine Learning Algorithms like **KNN's, PCA, RF & SVM** for predicting the outcome.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 ## :heavy_check_mark: :zero::eight:**Project - COVID19 Data Analysis Using Python**
@@ -204,7 +200,7 @@ In this Project we are going to work with COVID19 dataset, published by John Hop
 > - Learn to visualize the result of our analysis.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
 
@@ -229,24 +225,20 @@ Training __Convolutional Neural Networks(CNN)__ to classify Chest X-Ray scans wi
 > - Train a ResNet-18 model in PyTorch to perform Image Classification.
 
 <p align='center'>
-  <a href="#"><img src='https://github.com/mohd-faizy/07T_Probabilistic-Deep-Learning-with-TensorFlow/blob/main/Tensorflow_Dev_png/vert_div.gif?raw=true' height='200' width='200' alt="div"></a>
-
-<p align='center'>
-  <a href="#"><img src="https://marlacummins.com/wp-content/uploads/2014/03/Work_In_Progress.png" height='100' width='130'></a>
+  <a href="#"><img src='https://tymsai.netlify.app/resource/1.gif' height='10' width=100% alt="div"></a>
 </p>
 
-### Connect with me:
+#### $\color{skyblue}{\textbf{Connect with me:}}$
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackexchange ai]
+
+[<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
+[<img align="left" src="https://d31pjuirwqbaad.cloudfront.net/wp-content/uploads/2019/08/kissclipart-website-icon-png-clipart-computer-icons-ac62ecb3b8ae4d41.png?x61175" width="32px"/>][Portfolio]
 
 [twitter]: https://twitter.com/F4izy
-[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
-[stackexchange ai]: https://ai.stackexchange.com/users/36737/cypher
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
+[Portfolio]: https://mohdfaizy.com/
 
 ---
 
-![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />
